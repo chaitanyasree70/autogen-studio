@@ -1,0 +1,1 @@
+cmd /c "set AZ_BATCH & timeout /t 90 >NUL"
